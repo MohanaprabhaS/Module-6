@@ -30,10 +30,6 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 
 ## 💻 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
 
 from abc import ABC, abstractmethod
 
