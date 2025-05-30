@@ -25,11 +25,9 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 ---
 
-## 💻 Program
-```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
+# Program
+
+
 ```
 class Beans():
     def type(self):
