@@ -25,9 +25,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 ---
 
-# Program
-
-
+## Program
 
 ```
 class Beans():
